@@ -92,7 +92,7 @@ def ejecutar_simulacion():
     # Operacion 1: Cliente valido 1
     c1 = sistema.registrar_cliente("1005487963", "Laura Gomez", "laura.gomez@correo.com", "3104567890")
 
- #: Cliente valido 2
+    # Operacion 2: Cliente valido 2
     c2 = sistema.registrar_cliente("1098765432", "Carlos Mendoza", "cmendoza@empresa.co", "3209876543")
 
     # Operacion 3: Cliente invalido (cedula muy corta y correo sin @)
